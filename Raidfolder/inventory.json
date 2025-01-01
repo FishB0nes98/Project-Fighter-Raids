@@ -1,0 +1,38 @@
+{
+  "items": {
+    "Abyssal Echo": 0,
+    "Atlantean Trident of Time Manipulation": 5,
+    "Cursed Water Vial": 4,
+    "Deep Sea Essence": 3,
+    "Ice Dagger": 2,
+    "Ice Flask": 5,
+    "Ice Shard": 1,
+    "Leviathan Mist Vial": 1,
+    "Leviathan Scale": 3,
+    "Mana Potion": 3,
+    "Murky Water Vial": 3,
+    "Piranha Scales": 2,
+    "Shadow Dagger": 0,
+    "Shadow Essence": 3,
+    "Smoke Bomb": 4,
+    "Tidal Charm": 1,
+    "Underwater Cursed Shell": 2,
+    "Void Essence": 3
+  },
+  "global_inventory": {},
+  "currencies": {
+    "cm": 6050,
+    "fm": 600
+  },
+  "active_modifiers": {
+    "atlantean_raid_stage1": [
+      "SwitchingSword"
+    ],
+    "atlantean_raid_stage2": [],
+    "atlantean_raid_stage3": [
+      "CrystallineResonance"
+    ],
+    "atlantean_raid_stage4": [],
+    "atlantean_raid_stage5": []
+  }
+}

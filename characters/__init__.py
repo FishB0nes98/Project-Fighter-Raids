@@ -1,0 +1,3 @@
+"""
+Character package initialization
+""" 

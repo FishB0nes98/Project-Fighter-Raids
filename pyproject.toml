@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "project-fighter-raids"
+version = "0.1.0"
+description = "A fighting game with raid mechanics"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+bcrypt = "^4.0.1"
+cryptography = "^41.0.5"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 
